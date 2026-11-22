@@ -7,7 +7,7 @@ Aplicación web desarrollada con **React** y **TypeScript** que permite consulta
 ## Enlaces del proyecto
 
 - **Repositorio en GitHub:** https://github.com[darioalejandro14910]/[(https://github.com/darioalejandro14910/pulso-abierto.git)]
-- **Aplicación publicada en Vercel:** https://[TU_URL_DE_VERCEL].vercel.app
+- **Aplicación publicada en Vercel:** https://vercel.app
 
 ---
 
